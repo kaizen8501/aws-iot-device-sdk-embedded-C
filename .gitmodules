@@ -8,7 +8,7 @@
 [submodule "libraries/standard/coreHTTP"]
 	path = libraries/standard/coreHTTP
 	branch = main
-	url = https://github.com/FreeRTOS/coreHTTP.git
+	url = https://github.com/kaizen8501/coreHTTP.git
 [submodule "libraries/standard/coreJSON"]
 	path = libraries/standard/coreJSON
 	branch = main
